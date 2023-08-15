@@ -1,0 +1,55 @@
+https://www.amazon.in/
+
+https://www.makemytrip.com/
+
+
+
+http://www.someserver.com/welcome.html
+
+IDE - Integrated Dev Env
+Text Editors::
+Notepad, Notepad++
+VSC, Sublime, Brackets, Atom
+
+
+Angular brackets
+<markup>
+
+<html>  start tag
+</html> end tag
+
+<head>
+<body>
+<b>  -- bold
+<i> --- italics
+<u> -- underline
+
+Header tags:
+<h1>...<h6>
+<br> -- line break
+<hr> -- horizontal ruler
+<p>   --- paragraph
+<ul>  -- Unordered List
+<li> --- List Item
+
+<ol> -- Ordered List
+<font> 
+
+<img src="moon.jpeg" 
+       width="150" 
+       height="100"
+       align="left">
+
+
+
+
+Attributes:
+
+<tag>
+<tag key=value>
+
+
+
+
+
+
